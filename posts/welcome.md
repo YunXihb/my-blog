@@ -1,11 +1,24 @@
-# 欢迎来到我的博客
+# Hello World
 
-这是我的第一篇博客文章！
+Welcome to my blog! This is my first post.
 
-## 关于我
+## About Me
 
-我是一个热爱编程的技术爱好者。
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-## 联系方式
+I'm a passionate developer who loves building things and learning new technologies.
 
-欢迎在 GitHub 上关注我：[@YunXihb](https://github.com/YunXihb)
+## What I Do
+
+- **Web Development** - Building modern web applications
+- **Open Source** - Contributing to the community
+- **Learning** - Always exploring new things
+
+## Get in Touch
+
+- GitHub: [@YunXihb](https://github.com/YunXihb)
+- Email: hello@example.com
+
+---
+
+*Thanks for visiting!*
